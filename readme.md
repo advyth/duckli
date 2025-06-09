@@ -1,6 +1,6 @@
-# 🦆 DuckLI - AI-Powered Rubber Duck Assistant
+# 🦆 Duckli - AI-Powered Rubber Duck Assistant
 
-DuckLI is an interactive CLI tool that brings the classic "rubber duck debugging" technique into the AI era. It's your friendly AI companion for working through coding problems, debugging issues, and getting programming help.
+Duckli is an interactive CLI tool that brings the classic "rubber duck debugging" technique into the AI era. It's your friendly AI companion for working through coding problems, debugging issues, and getting programming help.
 
 ## What is Rubber Duck Debugging?
 
